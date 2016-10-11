@@ -3,6 +3,7 @@
 *.sas7bdat
 *.Rproj
 *.dropbox
+*.pptx
 
 # Compiled source #
 ###################
