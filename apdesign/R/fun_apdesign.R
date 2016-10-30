@@ -7,6 +7,8 @@
 #' @inheritParams apdesign_i
 #' 
 #' @return Output will be a data frame.
+#' 
+#' @export
 #==============================================================================#
 #--- BEGIN apdesign -----------------------------------------------------------#
 apdesign <- function(data, 
