@@ -4,6 +4,8 @@
 *.Rproj
 *.dropbox
 *.pptx
+*.ini
+
 
 # Compiled source #
 ###################
