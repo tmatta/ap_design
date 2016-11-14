@@ -1,6 +1,6 @@
 Package: apdesign
 Title: An Implementation of the Additive Polynomial Design Matrix
-Version: 0.0.0.9000
+Version: 1.0.0
 Authors@R: c(
     person("Tyler", "Matta", email = "tyler.matta@gmail.com", role = c("aut", "cre")),
     person("Quinn", "Lathrop", role = c("ctb")),

@@ -22,6 +22,8 @@ apdesign_i(data, cycle_var, center_cycle, time_var, center_time,
 
 \item{max_degree}{A vector of numerics specifying the highest degree for 
 each polynomial.}
+
+\item{matricies}{If \code{TRUE}, will print the AP, D1 and D2 matricies.}
 }
 \value{
 Output will be a matrix.
