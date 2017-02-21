@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tmatta/ap_design.svg?branch=master)](https://travis-ci.org/tmatta/ap_design)
+[![Build Status](https://travis-ci.org/tmatta/apdesign.svg?branch=master)](https://travis-ci.org/tmatta/apdesign)
 # apdesign
 
 This is the repository for the apdesign R package.
